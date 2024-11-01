@@ -1,0 +1,3 @@
+[workspace]
+members = [ "topohedral-integrate", "topohedral-linalg",  "topohedral-modeller", "topohedral-optimisation", "topohedral-tracing", "topohedral-viewer"]
+resolver = "2"
